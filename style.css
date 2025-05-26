@@ -517,7 +517,7 @@
         }
     }
 
-    /* Responsive Design */
+     /* Responsive Design */
     @media (max-width:992px) {
         .hero {
             flex-direction: column;
@@ -559,7 +559,7 @@
         }
     }
 
-    /* Scrollbar */
+   \* Scrollbar */
     ::-webkit-scrollbar {
         width: 10px;
     }
