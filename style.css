@@ -206,7 +206,7 @@
         filter: drop-shadow(0 0 5px var(--hemkay-green));
     }
 
-    /* Animations */
+    Animations
     @keyframes gradientshift {
         0% {
             background-position: 0% 50%;
@@ -559,7 +559,7 @@
         }
     }
 
-   \* Scrollbar */
+    /* Scrollbar */
     ::-webkit-scrollbar {
         width: 10px;
     }
